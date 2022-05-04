@@ -1,5 +1,6 @@
-# -*- coding: utf-8 -*-
-# created by ilia yazdi
+#screen recorder and calculator using python by @ilia yazdi
+
+
 import cv2
 import tkinter as tk
 import numpy as np
